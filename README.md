@@ -2,7 +2,7 @@
 
 ## Installation
 ### Install essentials 
-`sudo apt-get install vim python-dev build-essential cmake3`
+`sudo apt-get install vim python-dev build-essential cmake`
 
 NOTE: python3-dev has change of working also. 
 
