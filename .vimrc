@@ -140,6 +140,7 @@ call plug#end()
 
 " Custom 
 
+silent !mkdir ~/.vim/{backup,swap,undo} > /dev/null 2>&1
 set backupdir=~/.vim/backup//
 set directory=~/.vim/swap//
 set undodir=~/.vim/undo//
