@@ -161,3 +161,8 @@ set background=dark
 nnoremap <F2> :set invpaste paste?<CR>
 set pastetoggle=<F2>
 set showmode
+" New tab Ctrl+n
+" Switch tab Ctrl+H/L
+map  <C-l> :tabn<CR>
+map  <C-h> :tabp<CR>
+map  <C-n> :tabnew<CR>
