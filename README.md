@@ -1,3 +1,7 @@
+## Depracated
+
+Replaced with https://github.com/Racle/dotfiles/tree/master/neovim/.config/nvim
+
 # My .vimrc
 
 ## Installation
